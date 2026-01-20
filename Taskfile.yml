@@ -2,9 +2,6 @@
 
 version: '3'
 
-vars:
-  GREETING: Hello, world!
-
 tasks:
   run_jekyll:
     desc: Run Jekyll server locally
