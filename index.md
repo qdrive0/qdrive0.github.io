@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Link to Project 1
+
+[![Placeholder](URL of the image)](https://jekyllrb.com/docs/)
